@@ -4,8 +4,8 @@
 		"settings": [
 			"!ui_native_titlebar"
 		],
-		"bg": "#0d1017",
-		"fg": "#bfbdb6"
+		"bg": "#242936",
+		"fg": "#cccac2"
 	},
 	{
 		"class": "title_bar",
@@ -24,7 +24,7 @@
 			0
 		],
 		"layer0.opacity": 1,
-		"layer0.tint": "#0d1017"
+		"layer0.tint": "#242936"
 	},
 	{
 		"class": "sidebar_container",
@@ -118,7 +118,7 @@
 				]
 			}
 		],
-		"fg": "#bfbdb6"
+		"fg": "#cccac2"
 	},
 	{
 		"class": "sidebar_label",
@@ -130,7 +130,7 @@
 				]
 			}
 		],
-		"fg": "#bfbdb6"
+		"fg": "#cccac2"
 	},
 	{
 		"class": "sidebar_label",
@@ -171,7 +171,7 @@
 				]
 			}
 		],
-		"fg": "#bfbdb6"
+		"fg": "#cccac2"
 	},
 	{
 		"class": "sidebar_label",
@@ -183,7 +183,7 @@
 				]
 			}
 		],
-		"fg": "#bfbdb6"
+		"fg": "#cccac2"
 	},
 	{
 		"class": "sidebar_label",
@@ -476,7 +476,7 @@
 		"tab_overlap": 0,
 		"tab_height": 38,
 		"tab_width": 100,
-		"layer0.tint": "#0d1017",
+		"layer0.tint": "#242936",
 		"layer0.opacity": 1,
 		"content_margin": [
 			10,
@@ -611,7 +611,7 @@
 			"speed": 1,
 			"interpolation": "smoothstep"
 		},
-		"layer1.tint": "#0d1017",
+		"layer1.tint": "#242936",
 		"layer2.opacity": 1
 	},
 	{
@@ -684,7 +684,7 @@
 				]
 			}
 		],
-		"fg": "#bfbdb6"
+		"fg": "#cccac2"
 	},
 	{
 		"class": "tab_label",
@@ -696,7 +696,7 @@
 				]
 			}
 		],
-		"fg": "#bfbdb6"
+		"fg": "#cccac2"
 	},
 	{
 		"class": "tab_label",
@@ -972,7 +972,7 @@
 		"class": "quick_panel_label",
 		"fg": "#707a8c",
 		"match_fg": "#ffcc66",
-		"selected_fg": "#bfbdb6",
+		"selected_fg": "#cccac2",
 		"selected_match_fg": "#ffcc66"
 	},
 	{
@@ -984,15 +984,15 @@
 		],
 		"fg": "#707a8c",
 		"match_fg": "#ffcc66",
-		"selected_fg": "#bfbdb6",
+		"selected_fg": "#cccac2",
 		"selected_match_fg": "#ffcc66"
 	},
 	{
 		"class": "quick_panel_path_label",
 		"fg": "#707a8c",
-		"match_fg": "#bfbdb6",
+		"match_fg": "#cccac2",
 		"selected_fg": "#707a8c",
-		"selected_match_fg": "#bfbdb6"
+		"selected_match_fg": "#cccac2"
 	},
 	{
 		"class": "quick_panel_detail_label",
@@ -1527,7 +1527,7 @@
 	},
 	{
 		"class": "panel_control",
-		"layer0.tint": "#0d1017",
+		"layer0.tint": "#242936",
 		"layer0.opacity": 1,
 		"content_margin": [
 			0,
@@ -1573,7 +1573,7 @@
 	{
 		"class": "status_bar",
 		"layer0.texture": "",
-		"layer0.tint": "#0d1017",
+		"layer0.tint": "#242936",
 		"layer0.opacity": 1,
 		"layer1.texture": "ayu/assets/separator-top.png",
 		"layer1.tint": "#161921",
@@ -1986,7 +1986,7 @@
 			0
 		],
 		"layer0.opacity": 0,
-		"layer2.tint": "#bfbdb6",
+		"layer2.tint": "#cccac2",
 		"layer2.opacity": {
 			"target": 0,
 			"speed": 10,
