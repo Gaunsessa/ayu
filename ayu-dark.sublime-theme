@@ -452,7 +452,7 @@
 		"tab_overlap": 0,
 		"tab_height": 38,
 		"tab_width": 100,
-		"layer0.tint": "#10141c",
+		"layer0.tint": "#0d1017",
 		"layer0.opacity": 1,
 		"content_margin": [
 			10,
@@ -587,7 +587,7 @@
 			"speed": 1,
 			"interpolation": "smoothstep"
 		},
-		"layer1.tint": "#10141c",
+		"layer1.tint": "#0d1017",
 		"layer2.opacity": 1
 	},
 	{
@@ -1503,7 +1503,7 @@
 	},
 	{
 		"class": "panel_control",
-		"layer0.tint": "#10141c",
+		"layer0.tint": "#0d1017",
 		"layer0.opacity": 1,
 		"content_margin": [
 			0,
@@ -1549,7 +1549,7 @@
 	{
 		"class": "status_bar",
 		"layer0.texture": "",
-		"layer0.tint": "#10141c",
+		"layer0.tint": "#0d1017",
 		"layer0.opacity": 1,
 		"layer1.texture": "ayu/assets/separator-top.png",
 		"layer1.tint": "#1b1f29",
