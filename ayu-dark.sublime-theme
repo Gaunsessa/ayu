@@ -1140,7 +1140,7 @@
 	{
 		"class": "kind_container",
 		"layer0.texture": "ayu/assets/kind-bg.png",
-		"layer0.tint": "#141821",
+		"layer0.tint": "#FFFFFF",
 		"layer0.inner_margin": [
 			4,
 			4,
