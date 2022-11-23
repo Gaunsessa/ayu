@@ -1147,7 +1147,7 @@
 			7,
 			4
 		],
-		"layer0.opacity": 0,
+		"layer0.opacity": 1.0,
 		"layer1.texture": "ayu/assets/kind-bg.png",
 		"layer1.tint": "#14182100",
 		"layer1.inner_margin": [
@@ -1156,7 +1156,7 @@
 			7,
 			4
 		],
-		"layer1.opacity": 0.0,
+		"layer1.opacity": 0.3,
 		"layer2.texture": "ayu/assets/kind-border.png",
 		"layer2.tint": "#14182100",
 		"layer2.inner_margin": [
@@ -1165,7 +1165,7 @@
 			7,
 			4
 		],
-		"layer2.opacity": 0.0,
+		"layer2.opacity": 0.1,
 		"content_margin": [
 			4,
 			0,
