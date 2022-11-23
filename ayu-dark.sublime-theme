@@ -596,7 +596,7 @@
 			"hover"
 		],
 		"settings": [
-			"!ui_separator"
+			"ui_separator"
 		],
 		"layer0.tint": "#e6b450",
 		"layer0.opacity": 1
