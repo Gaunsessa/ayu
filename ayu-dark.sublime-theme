@@ -4,16 +4,8 @@
 		"settings": [
 			"!ui_native_titlebar"
 		],
-		"bg": "#10141c",
+		"bg": "#0d1017",
 		"fg": "#bfbdb6"
-	},
-	{
-		"class": "title_bar",
-		"settings": [
-			"!ui_native_titlebar",
-			"ui_separator"
-		],
-		"bg": "#0d1017"
 	},
 	{
 		"class": "sidebar_container",
@@ -24,23 +16,7 @@
 			0
 		],
 		"layer0.opacity": 1,
-		"layer0.tint": "#10141c"
-	},
-	{
-		"class": "sidebar_container",
-		"settings": [
-			"ui_separator"
-		],
-		"layer0.tint": "#0d1017",
-		"layer1.texture": "ayu/assets/separator-sidebar.png",
-		"layer1.inner_margin": [
-			0,
-			38,
-			2,
-			1
-		],
-		"layer1.opacity": 1,
-		"layer1.tint": "#1b1f29"
+		"layer0.tint": "#0d1017"
 	},
 	{
 		"class": "sidebar_tree",
